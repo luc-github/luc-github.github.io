@@ -1,0 +1,24 @@
+diamond:
+  - name: 
+
+platinum:
+  - name: "MakerBase"
+    website: "https://github.com/makerbase-mks"
+    logo: "https://raw.githubusercontent.com/luc-github/luc-github/main/sponsors/mksmakerbase/mksmakerbase.jpg"
+    locations: ["esp3d","esp3d-webui","esp3dlib","esp3d-tft", "discord","esp3d.io"]
+    date: "28/08/2024"
+
+gold:
+  - name: "PiBot"
+    website: "https://pibot.com"
+    logo: "https://raw.githubusercontent.com/luc-github/luc-github/main/sponsors/pibot/pibot.png"
+    locations: ["esp3d-webui"]
+    date: "07/02/2025"
+  - name: "Anolex"
+    website: "https://anolexcnc.com/"
+    logo: "https://raw.githubusercontent.com/luc-github/luc-github/main/sponsors/anolex/anolex.png"
+    locations: ["esp3d-webui"]
+    date: "01/10/2024"
+
+silver:
+  - name:
